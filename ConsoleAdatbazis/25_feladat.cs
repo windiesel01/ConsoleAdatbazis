@@ -11,7 +11,7 @@ namespace ConsoleAdatbazis
     {
         public static void kerdesek(MySqlConnection connection)
         {
-            Console.WriteLine("\nA rendelések összértéke alapján mi a vevők sorrendje?");
+            Console.WriteLine("\n25. A rendelések összértéke alapján mi a vevők sorrendje?");
             try
             {
                 connection.Open();

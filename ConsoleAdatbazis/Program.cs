@@ -55,6 +55,7 @@ namespace ConsoleAdatbazis
 
                     case 0:
                         TF = false;
+                        Console.WriteLine("Vége!");
                         break;
                 }
             } while (TF);

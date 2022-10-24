@@ -11,7 +11,7 @@ namespace ConsoleAdatbazis
     {
         public static void kerdesek(MySqlConnection connection)
         {
-            Console.WriteLine("\nHány házhoz szállítása volt az egyes futároknak?");
+            Console.WriteLine("\n23. Hány házhoz szállítása volt az egyes futároknak?");
             try
             {
                 connection.Open();
